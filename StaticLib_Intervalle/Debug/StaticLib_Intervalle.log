@@ -1,0 +1,5 @@
+﻿  TableauBorne.cpp
+C:\Users\admin\source\repos\StaticLib_Intervalle\StaticLib_Intervalle\TableauBorne.cpp(16,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\admin\source\repos\StaticLib_Intervalle\StaticLib_Intervalle\TableauBorne.cpp(46): warning C4715: 'TableauBorne::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\admin\source\repos\StaticLib_Intervalle\StaticLib_Intervalle\TableauBorne.cpp(65): warning C4715: 'TableauBorne::operator()' : les chemins de contrôle ne retournent pas tous une valeur
+  StaticLib_Intervalle.vcxproj -> C:\Users\admin\source\repos\StaticLib_Intervalle\Debug\StaticLib_Intervalle.lib
